@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="minecraf-boss-1.0-BETA">
+    <output-path>$PROJECT_DIR$/../../../hyren-server/plugins</output-path>
+    <root id="archive" name="minecraf-boss-1.0-BETA.jar">
+      <element id="module-output" name="HyrenMobs" />
+    </root>
+  </artifact>
+</component>

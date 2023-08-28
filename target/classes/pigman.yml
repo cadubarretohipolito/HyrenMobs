@@ -1,0 +1,32 @@
+Shop:
+  valor-de-compra: 1500000
+Comum:
+  chance-de-spawn: 75
+  dano-de-ataque: 25
+  prefix: '&aHomem Porco Comum'
+  vida: 325
+  tempo-de-combate: 1
+  chance-item-mob: 20
+  efeitos: true
+  capangas-quantidade: 15
+  capangas: true
+Raro:
+  chance-de-spawn: 20
+  dano-de-ataque: 50
+  prefix: '&aHomem Porco Raro'
+  vida: 750
+  tempo-de-combate: 5
+  chance-item-mob: 10
+  capangas-quantidade: 25
+  capangas: true
+  efeitos: true
+Lendario:
+  chance-de-spawn: 5
+  dano-de-ataque: 100
+  prefix: '&6Homem Porco Lendario'
+  vida: 1000
+  tempo-de-combate: 10
+  capangas-quantidade: 40
+  capangas: true
+  chance-item-mob: 7.5
+  efeitos: true

@@ -1,0 +1,5 @@
+name: HyrenMobs
+version: 1.0
+main: cadubarreto.hyrenmobs.HyrenMobs
+commands:
+  combate:

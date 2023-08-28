@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="base-world-edit1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../hyren-server/plugins/base-world-edit.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

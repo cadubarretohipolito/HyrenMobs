@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="addon-fawe1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../hyren-server/plugins/addon-fawe.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

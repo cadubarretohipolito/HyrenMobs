@@ -1,0 +1,25 @@
+Atributos:
+  Espada:
+    Inicial: 1000
+    Nivel_I: 2000
+    Nivel_II: 3000
+    Nivel_III: 5000
+  Armadura:
+    Inicial: 1000
+    Nivel_I: 2000
+    Nivel_II: 3000
+    Nivel_III: 5000
+  Encantamento:
+    Inicial: 3000
+    Nivel_I: 6000
+    Nivel_II: 9000
+    Nivel_III: 12000
+    Nivel_IV:  15000
+    Nivel_V: 100000
+
+Shop:
+  Kit_Pocao:
+    Preco: 9500
+  Kit_Arco:
+    Preco: 10000
+
